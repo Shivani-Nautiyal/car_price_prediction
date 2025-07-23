@@ -67,16 +67,9 @@ The dataset was obtained from Kaggle and includes the following features:
 
 ## ✅ Results
 
-The Random Forest model was able to predict car prices with good accuracy. You can further improve results by trying:
+The Random Forest model performed the best with highest R² and lowest RMSE, able to predict car prices with good accuracy. You can further improve results by trying:
 - Ridge/Lasso Regression
 - GridSearchCV for hyperparameter tuning
-
----
-
-## 📁 File Structure
--car_price_prediction/
--├── car_price.ipynb   # Jupyter Notebook with code and results
--├── README.md   # Project summary
 
 ---
 
